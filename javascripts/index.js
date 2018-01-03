@@ -7,3 +7,4 @@ let makeListOfData = (data) => {
   dataPairings.innerHTML = "<tr><th>Year</th><th>Consumption (million gallons per day)</th></tr>" + entryString
 }
 
+
