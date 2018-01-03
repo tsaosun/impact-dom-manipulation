@@ -1,4 +1,5 @@
-const data = [{"new_york_city_population":"7102100","nyc_consumption_million_gallons_per_day":"1512","per_capita_gallons_per_person_per_day":"213","year":"1979"}
+const dataAPI = { "data":
+[{"new_york_city_population":"7102100","nyc_consumption_million_gallons_per_day":"1512","per_capita_gallons_per_person_per_day":"213","year":"1979"}
 ,{"new_york_city_population":"7071639","nyc_consumption_million_gallons_per_day":"1506","per_capita_gallons_per_person_per_day":"213","year":"1980"}
 ,{"new_york_city_population":"7089241","nyc_consumption_million_gallons_per_day":"1309","per_capita_gallons_per_person_per_day":"185","year":"1981"}
 ,{"new_york_city_population":"7109105","nyc_consumption_million_gallons_per_day":"1382","per_capita_gallons_per_person_per_day":"194","year":"1982"}
@@ -35,5 +36,4 @@ const data = [{"new_york_city_population":"7102100","nyc_consumption_million_gal
 ,{"new_york_city_population":"8405837","nyc_consumption_million_gallons_per_day":"1006","per_capita_gallons_per_person_per_day":"120","year":"2013"}
 ,{"new_york_city_population":"8491079","nyc_consumption_million_gallons_per_day":"996","per_capita_gallons_per_person_per_day":"117","year":"2014"}
 ,{"new_york_city_population":"8550405","nyc_consumption_million_gallons_per_day":"1009","per_capita_gallons_per_person_per_day":"118","year":"2015"}
-,{"new_york_city_population":"8537673","nyc_consumption_million_gallons_per_day":"1002","per_capita_gallons_per_person_per_day":"117","year":"2016"}]
-
+,{"new_york_city_population":"8537673","nyc_consumption_million_gallons_per_day":"1002","per_capita_gallons_per_person_per_day":"117","year":"2016"}]}
